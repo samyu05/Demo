@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello World"<<endl;
-    cout<<"Good Evening"<<endl;
+   add(10,20);
+   sub(10,30);
+
     return 0;
 }
