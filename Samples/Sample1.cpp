@@ -9,7 +9,7 @@ int add(int x,int y)
 
 int main()
 {
-    cout<<"hi sadist Marvel"<<endl;
+    cout<<"Hello world"<<endl;
     cout<<"some new applications designed"<<endl;
     cout<<add(10,20)<<endl;
     return 0;
